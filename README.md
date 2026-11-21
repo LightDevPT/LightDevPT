@@ -3,7 +3,7 @@
 
 # LIGHTDEVPT
 
-### Developer · Entrepreneur · Technology Enthusiast
+### Developer · Entrepreneur 
 
 **Transformo ideias em tecnologia.**
 
